@@ -1,7 +1,7 @@
 import java.util.List;
 
 public class Folder implements FileItem {
-   private List<FileItem> items;
+   private List<FileItem> items; // We need to fill this with the contents of the Folder
    
    public int fileCount ( ) {
       int count = 1;

@@ -50,24 +50,25 @@ public class SimplePrinting {
 /*
     printBefore("Hello");
     System.out.println();
-
+*/
     printAfter("Hello");
     System.out.println();
-
+/*
     printMiddle("What is the name of the game?");
     System.out.println();
-
+*/
     printMiddle("ABCDEFGHIJKLMNOPQRSTUVWXYZ");
     System.out.println();
-
+/*
     printMiddle("ABCDEFGHIJKLMNOPQRSTUVWXY");
     System.out.println();
 
     System.out.println(someFun("BCDEFGHIJKLMNOPQRSTUVWXYZ"));
     System.out.println();
-*/    
+    
     System.out.println("addSquares(5): " + MathRecursion.addSquares(5));
     System.out.println("factorial(7):  " + MathRecursion.factorial(7));
+*/
   }
   
 
